@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.cardContainer {
+  display: contents;
+  margin: 10px;
+}
+.cardHolder {
+  margin: 10px;
+  border: 1px solid black;
+}
